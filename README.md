@@ -7,4 +7,4 @@ Projeto para Neo Way
 * A seguir :
 *As tabelas feitas com importação csv de planilhas
 *Arquivo sql para realizar consultas
-* Exportação do arquivo database do sql
+*Arquivo database do sql neoway24
