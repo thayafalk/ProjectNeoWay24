@@ -4,5 +4,8 @@ Projeto para Neo Way
 * As planilhas utilizadas foram importadas em csv para colocar no sql
 * A ferramenta utilizada foi Sql Workbench
 * Foi criado um database dentro do sql
-
+* A seguir :
+*As tabelas feitas com importação csv de planilhas
+*Arquivo sql para realizar consultas
+*Arquivo database do sql neoway24
 
